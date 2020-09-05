@@ -1,0 +1,17 @@
+body{
+	background-image: url("images/a3.jpg");
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.row1 img{
+	width: 750px;
+	height: 350px;
+}
+.row3{
+	padding: 100px 0;
+}
+.alt{
+	background-color: #CCEAE4;
+}
